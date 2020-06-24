@@ -16,7 +16,7 @@ Ruby - Rails - ActiveRecord - PostgreSQL - SQLite
 - Linkedin: [Oscar De La Lanza](https://www.linkedin.com/in/oscardelalanza/)
 - Email: oscardelalanza@gmail.com
 
-- **Tiago Ferreira** - [@ferreirati](https://github.com/ferreirati)
+👤 **Tiago Ferreira** - [@ferreirati](https://github.com/ferreirati)
 
 ### Links
 
