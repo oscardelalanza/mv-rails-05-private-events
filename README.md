@@ -1,7 +1,10 @@
-# README 
 # Project: Bare metal forms with Rails
 
-Basic usage of Rails routes, controller, models, views and sessions.
+> Basic usage of Rails routes, controller, models, views and sessions.
+> This is a project for practice with associations and active record by creating an app with a similar functionality of 
+> Eventbrite
+
+![screenshot](./screenshots/private-events.png)
 
 ### Technology
 
@@ -16,11 +19,12 @@ Ruby - Rails - ActiveRecord - PostgreSQL - SQLite
 - Linkedin: [Oscar De La Lanza](https://www.linkedin.com/in/oscardelalanza/)
 - Email: oscardelalanza@gmail.com
 
-👤 **Tiago Ferreira** - [@ferreirati](https://github.com/ferreirati)
+👤 **Tiago Ferreira** 
+- [@ferreirati](https://github.com/ferreirati)
 
 ### Links
 
-- **Assignment page** - [The Odin Project](hhttps://www.theodinproject.com/courses/ruby-on-rails/lessons/associations)
+- **Assignment page** - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations)
 - **Live** - [Demo on Heroku](#)
 
 ### Database structure
