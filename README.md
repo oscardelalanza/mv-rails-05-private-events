@@ -54,6 +54,8 @@ it will be classified as `previous` or `next` event.
 
 ### Run tests
 
+- Run the command `rails test`
+
 ### Deployment
 
 ### Installation
