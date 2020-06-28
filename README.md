@@ -24,6 +24,12 @@ Ruby - Rails - ActiveRecord - PostgreSQL - SQLite
 
 ### Setup
 
+To clone the project in your local environment do the following
+
+- Open a new `terminal` window and navigate to the directory where the project will be stored
+- Run the command `git clone git@github.com:oscardelalanza/mv-rails-05-private-events.git`
+- Run the command `cd mv-rails-05-private-events` to enter the project directory
+
 ### Install
 
 ### Usage
