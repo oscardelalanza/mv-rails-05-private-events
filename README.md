@@ -10,10 +10,6 @@
 
 Ruby - Rails - ActiveRecord - PostgreSQL - SQLite 
 
-### Live Demo
-
-[Live Demo Link](https://private-evetns.herokuapp.com/)
-
 ### Authors
 
 👤 **Oscar De La Lanza**
@@ -30,11 +26,6 @@ Ruby - Rails - ActiveRecord - PostgreSQL - SQLite
 
 - **Assignment page** - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations)
 - **Live** - [Demo on Heroku](#)
-
-### Database structure
-- users
-  - name: STR, required, max:80
-  - email: STR, required, index, unique, max:255
 
 ### Installation
 - `bundle --without production`
