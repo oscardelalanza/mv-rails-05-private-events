@@ -48,7 +48,7 @@ To clone the project in your local environment do the following
 
 #### Create Events
 
-- Fill the `form` in the left part oh the home page with your event `description`, `location`, `date` and `hour`
+- Fill the `form` in the left part of the home page with your event `description`, `location`, `date` and `hour`
 - Once you post your Event, it will be displayed on the right list of the home page. Notice that depending on the event date,
 it will be classified as `previous` or `next` event.
 
