@@ -61,21 +61,6 @@ it will be classified as `previous` or `next` event.
 
 - To start the local server run the command `rails server`
 
-### Installation
-- `bundle --without production`
-- `yarn install --check-files`
-- `rails db:migrate` 
-- `rails db:seed`
-
-### Star development server
-- `rails server`
-
-### Rails console
-- `rails console`
-
-### Integration tests
-- `rails tests`
-
 ### Authors
 
 👤 **Oscar De La Lanza**
@@ -87,3 +72,13 @@ it will be classified as `previous` or `next` event.
 
 👤 **Tiago Ferreira** 
 - [@ferreirati](https://github.com/ferreirati)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
