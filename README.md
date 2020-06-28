@@ -35,6 +35,7 @@ To clone the project in your local environment do the following
 - Install the required gems running the command `bundle install --without production`
 - Install the required node modules running the command `yarn install`
 - Create and migrate the database running the command `rails db:migrate`
+- If you want to use the database seeds run the command `rails db:seed`
 
 ### Usage
 
