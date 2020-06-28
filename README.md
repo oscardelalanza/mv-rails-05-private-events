@@ -6,26 +6,11 @@
 
 ![screenshot](./screenshots/private-events.png)
 
+**Assignment page** - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations)
+
 ### Technology
 
 Ruby - Rails - ActiveRecord - PostgreSQL - SQLite 
-
-### Authors
-
-👤 **Oscar De La Lanza**
-
-- Github: [@oscardelalanza](https://github.com/oscardelalanza)
-- Twitter: [@oscardelalanza](https://twitter.com/oscardelalanza)
-- Linkedin: [Oscar De La Lanza](https://www.linkedin.com/in/oscardelalanza/)
-- Email: oscardelalanza@gmail.com
-
-👤 **Tiago Ferreira** 
-- [@ferreirati](https://github.com/ferreirati)
-
-### Links
-
-- **Assignment page** - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations)
-- **Live** - [Demo on Heroku](#)
 
 ### Installation
 - `bundle --without production`
@@ -41,3 +26,15 @@ Ruby - Rails - ActiveRecord - PostgreSQL - SQLite
 
 ### Integration tests
 - `rails tests`
+
+### Authors
+
+👤 **Oscar De La Lanza**
+
+- Github: [@oscardelalanza](https://github.com/oscardelalanza)
+- Twitter: [@oscardelalanza](https://twitter.com/oscardelalanza)
+- Linkedin: [Oscar De La Lanza](https://www.linkedin.com/in/oscardelalanza/)
+- Email: oscardelalanza@gmail.com
+
+👤 **Tiago Ferreira** 
+- [@ferreirati](https://github.com/ferreirati)
