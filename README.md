@@ -59,6 +59,8 @@ it will be classified as `previous` or `next` event.
 
 ### Deployment
 
+- To start the local server run the command `rails server`
+
 ### Installation
 - `bundle --without production`
 - `yarn install --check-files`
