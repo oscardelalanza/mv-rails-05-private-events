@@ -1,4 +1,4 @@
-# Project: Bare metal forms with Rails
+# Private Events
 
 > Basic usage of Rails routes, controller, models, views and sessions.
 > This is a project for practice with associations and active record by creating an app with a similar functionality of 
