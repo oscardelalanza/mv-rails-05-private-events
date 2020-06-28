@@ -38,6 +38,20 @@ To clone the project in your local environment do the following
 
 ### Usage
 
+- Click on `Sign up now!` and fill the form to create your account
+
+#### Nav bar links
+
+- Click on `Home` to navigate to the home page
+- Click on `user` to navigate to the user profile
+- Click on `Log out` to end your session
+
+#### Create Events
+
+- Fill the `form` in the left part oh the home page with your event `description`, `location`, `date` and `hour`
+- Once you post your Event, it will be displayed on the right list of the home page. Notice that depending on the event date,
+it will be classified as `previous` or `next` event.
+
 ### Run tests
 
 ### Deployment
