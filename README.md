@@ -12,6 +12,26 @@
 
 Ruby - Rails - ActiveRecord - PostgreSQL - SQLite 
 
+## Getting Started
+
+> To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- `Git`
+- `Ruby 2.6.5`
+- `Rails 6`
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
 ### Installation
 - `bundle --without production`
 - `yarn install --check-files`
